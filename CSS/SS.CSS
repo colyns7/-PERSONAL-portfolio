@@ -1,0 +1,61 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10PX 0;
+}
+header{
+    background-color: beige;
+    text-align: center;
+    padding: 10PX 0;
+    color:red;
+    border: 2PX SOLID;
+    border-radius: 2PX;
+    box-shadow: 2PX 2PX 2PX;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline;
+    margin: 0 15PX;
+}
+nav ul li a{
+    text-decoration: none;
+    color: brown;
+    padding: 10PX;
+    border-radius: 5PX ;
+    
+}
+nav ul li a:hover{
+    color: blue;
+    background-color: black;
+
+}
+main{
+    width: 80%;
+    margin: 10PX auto;
+    background-color: bisque;
+}
+section{
+    border: 2PX solid plum;
+    padding: 2%;
+    box-shadow: 5PX 5PX 5PX plum;
+    border-radius: 2PX;
+    margin-bottom: 2PX;
+}
+h2{
+    color:red;
+}
+.SAFARI{
+border: 1PX solid;
+border-radius: 1PX SOLID;
+margin-bottom: 10PX;
+padding: 10px;
+font-family: Arial, Helvetica, sans-serif;
+box-shadow: 2PX 2PX 2PX red;
+}
+footer{
+    text-align: center;
+    background-color: beige;
+    padding: 10px;
+    color: red;
+}
